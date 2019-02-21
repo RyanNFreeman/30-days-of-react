@@ -16,8 +16,6 @@ Over the next 30 days, you'll get a good feel for the various parts of the [Reac
 
 Each day in our 30 day adventure will build upon the previous day's materials, so by the end of the series, you'll not only know the terms, concepts, and underpinnings of how the framework works, but be able to use React in your next web application.
 
-Let's get started. We'll start [at the very beginning](https://www.youtube.com/watch?v=1RW3nDRmu6k) as it's a very good place to start.
-
 ## What is React?
 
 [React](https://facebook.github.io/react/) is a JavaScript library for building user interfaces. It is the view layer for web applications.
